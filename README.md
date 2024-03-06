@@ -11,7 +11,7 @@ This project is a machine learning and computer vision solution designed to dete
 
 ## 🖼️ Demo
 
-![Parking Spot Detection Demo](https://drive.google.com/file/d/1q5bTfFYcCmGFU_uhAl1bZTV7v_DpohD3/view?usp=drive_link)
+![Parking Spot Detection Demo](https://drive.google.com/uc?id=1q5bTfFYcCmGFU_uhAl1bZTV7v_DpohD3)
 
 ## 📦 Requirements
 
